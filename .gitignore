@@ -50,3 +50,7 @@
 # Delphi history and backups
 __history/
 *.~*
+*.obj
+*.wings
+*.rar
+*.2007
